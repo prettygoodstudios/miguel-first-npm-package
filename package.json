@@ -1,0 +1,25 @@
+{
+  "name": "miguel-first-npm-package",
+  "version": "0.1.0",
+  "description": "This module creates a footer with an updated date and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prettygoodstudios/miguel-first-npm-package.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "= <=> (=)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prettygoodstudios/miguel-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/prettygoodstudios/miguel-first-npm-package#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
